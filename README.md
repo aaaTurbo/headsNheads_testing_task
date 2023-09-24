@@ -2,4 +2,4 @@
  Testing task for HEADS and HEADS. 
 
 Contacts: 
-         Telegram: [@vigdangong](https://t.me/vigdangong)https://t.me/vigdangong
+         Telegram: [@vigdangong](https://t.me/vigdangong)
