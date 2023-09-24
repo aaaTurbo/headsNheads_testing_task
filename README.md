@@ -1,7 +1,7 @@
 # headsNheads_testing_task
  Testing task for HEADS and HEADS. 
 
-Contacts:
+Contacts\:
          Telegram: [@vigdangong](https://t.me/vigdangong)
          Mail: antseion@gmail.com
 
