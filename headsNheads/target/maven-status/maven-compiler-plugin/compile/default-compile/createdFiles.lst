@@ -1,0 +1,12 @@
+ru/aaaTurbo/exceptions/DefenceOutOfBoundsExceptions.class
+ru/aaaTurbo/exceptions/NoMoreHealingsException.class
+ru/aaaTurbo/exceptions/AttackOutOfBoundsExceptions.class
+ru/aaaTurbo/exceptions/HealthOutOfBoundsExceptions.class
+ru/aaaTurbo/entities/Monster.class
+ru/aaaTurbo/Main.class
+ru/aaaTurbo/entities/Player.class
+ru/aaaTurbo/exceptions/DamageMaxMinException.class
+ru/aaaTurbo/entities/abstracts/Creature.class
+ru/aaaTurbo/entities/Fight.class
+ru/aaaTurbo/interfaces/Healable.class
+ru/aaaTurbo/exceptions/DamageUnderZeroException.class
